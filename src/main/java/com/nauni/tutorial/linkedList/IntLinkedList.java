@@ -1,4 +1,4 @@
-package org.com.akn.linkedList;
+package com.nauni.tutorial.linkedList;
 
 public class IntLinkedList {
 	

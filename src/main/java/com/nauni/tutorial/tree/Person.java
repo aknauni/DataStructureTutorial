@@ -1,4 +1,4 @@
-package org.com.akn.tree;
+package com.nauni.tutorial.tree;
 
 public class Person {
 

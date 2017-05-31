@@ -1,4 +1,4 @@
-package org.com.akn.queueExample;
+package com.nauni.tutorial.queueExample;
 
 public class Intq {
 	

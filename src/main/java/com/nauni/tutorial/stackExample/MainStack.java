@@ -1,6 +1,4 @@
-package org.com.akn.stackExample;
-
-import org.com.akn.queueExample.Person;
+package com.nauni.tutorial.stackExample;
 
 public class MainStack {
 

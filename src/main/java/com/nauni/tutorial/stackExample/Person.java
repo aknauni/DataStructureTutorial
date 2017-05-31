@@ -1,4 +1,4 @@
-package org.com.akn.stackExample;
+package com.nauni.tutorial.stackExample;
 
 public class Person {
 	

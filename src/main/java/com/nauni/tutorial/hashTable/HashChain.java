@@ -1,4 +1,4 @@
-package org.com.akn;
+package com.nauni.tutorial.hashTable;
 
 import java.util.Arrays;
 
